@@ -1,0 +1,245 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+/*#navbar{
+  position: fixed;
+  width: 100%;
+}*/
+.brand{
+  color:#D9DDDC;
+}
+.nav-link{
+  color:#D9DDDC !important;
+  padding: 0 4rem !important;
+  font-size: 1rem;
+  font-family: "Ubuntu";
+}
+.brand:hover{
+  color: #fff;
+}
+.nav-link:hover{
+  color: #fff !important;
+}
+.navbar-toggler-icon{
+   border-color: rgb(255,102,203) !important;
+ }
+ .shoponline{
+   background-color:#eeeeee;
+   height:40px;
+   text-align: center;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   font-family: "Montserrat";
+ }
+ .iwatch{
+   height: 615px;
+   width:95%;
+   margin-left: 2.5%;
+   background-color: #fcfbfa;
+   text-align: center;
+ }
+ .iwatch-brand{
+
+   padding-top: 4.5rem;
+   font-weight: bold;
+ }
+ .se{
+   color:#ed2939;
+ }
+ .sebuy{
+   border-radius: 5px;
+ }
+ .iwatchseries{
+   height: 500px;
+   width: 95%;
+   background-color: black;
+   margin-left: 2.5%;
+   margin-top: 2%;
+   color: #fff;
+
+
+ }
+
+ .series6{
+   position: relative;
+   top:5rem;
+   left: 1rem;
+   width: 700px;
+   height: 350px;
+ }
+ .iseries6{
+   position: relative;
+   float: right;
+   top:5rem;
+   right: 13rem;
+ }
+ .iseries6-1{
+   position:relative;
+   float: right;
+   top:9rem;
+   right:-5rem;
+  font-size:2.5rem;
+   font-style:bold;
+ }
+ .iseries6-2{
+   position:relative;
+   float: right;
+   bottom:10rem;
+   right: 12rem;
+   font-style:bold;
+ }
+ .iseries6-3{
+   position:relative;
+   float: right;
+   bottom:6rem;
+   right: 1rem;
+ }
+ .button1{
+   position:relative;
+   float: right;
+   border-radius:25%;
+   font-family:inherit;
+   font-size:1.2rem;
+   bottom:2.3rem;
+ }
+ .button1:hover{
+   background-color: #26afff;
+ }
+.iseries6-4{
+  position:relative;
+  float: right;
+  border-radius:25%;
+  font-family:inherit;
+  font-size:1.2rem;
+  bottom:2rem;
+  right: -13rem;
+}
+@media (max-width: 1028px) {
+
+
+  .navbar{
+  width: 100%;
+}
+.iseries6{
+  position: relative;
+  float: right;
+  top:6rem;
+  right: 7rem;
+
+}
+.iseries6-1{
+  position:relative;
+  float:left;
+  top:-13rem;
+  left:35rem;
+ font-size:2rem;
+  font-style:bold;
+}
+.iseries6-2{
+  position:relative;
+  float: right;
+  bottom:10rem;
+  right: 7rem;
+  font-style:bold;
+}
+.iseries6-3{
+  position:relative;
+  float: right;
+  bottom:6rem;
+  right: -3rem;
+}
+.button1{
+  position:relative;
+  float: right;
+  border-radius:25%;
+  font-family:inherit;
+  font-size:1.2rem;
+  bottom:2.3rem;
+  right: -4rem;
+}
+.iseries6-4{
+  position:relative;
+  float: right;
+  border-radius:25%;
+  font-family:inherit;
+  font-size:1.2rem;
+  bottom:2rem;
+  right: -17rem;
+}
+.testimonals{
+  margin-top:30% !important;
+  margin-left: 2% !important;
+  margin-right: 2% !important;
+  margin-bottom:1% !important;
+  height: 500px;
+}
+.respo-img{
+  height: 500px;
+}
+.pricing{
+  height:500px;
+
+  padding-left: 130px !important;
+}
+.footer{
+  margin-top:630px;
+  background-color:#eeeeee;
+  height: 580px !important;
+  padding-top: 3%;
+  padding-left:10%;
+  padding-right:16%;
+}}
+
+.features-box{
+  height: 500px;
+
+  padding: 11% 15%;
+  text-align: center;
+}
+.icon {
+  color:#cf2e2e;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color:#902020;;
+}
+.testimonals{
+  margin: 2% 2%;
+  height:730px;
+}
+.pricing{
+  height:800px;
+  width: 95%;
+  padding-left: 90px;
+  padding-right: 0;
+  margin: 0;
+
+}
+.pricing-column {
+  padding: 3%;
+
+}
+.card{
+  border: none;
+}
+.button2{
+
+  font-family:inherit;
+  font-size:1.2rem;
+}
+.footer{
+  background-color:#eeeeee;
+  height: 500px;
+  padding-top: 3%;
+  padding-left:10%;
+  padding-right:16%;
+}
+.footerp{
+  font-size:0.8rem;
+}
+.footertxt{
+  color:black;
+}
